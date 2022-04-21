@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpier_doc=self.webpackChunkpier_doc||[]).push([[565],{2633:function(e){e.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-docs","id":"writing-for-pier"}}')}}]);
